@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MI PROYECTO WEB: Aroma & Grano</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenidos a Mi Proyecto Web</h1>
+        <p>Estudiante: Monsterbiggiecheese | Grupo: G03</p>
+        
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="blog_futbol.html">Barista Blog</a></li>
+                <li><a href="productos.html">Granos e Insumos</a></li>
+                <li><a href="servicios.html">Catering y Talleres</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Página Principal</h2>
+            <p>Esta es la estructura básica solicitada para el desarrollo de nuestro proyecto web corporativo enfocado en café de especialidad.</p>
+            <p>A través de este portal, gestionamos la información de nuestra cafetería gourmet, artículos educativos sobre barismo, catálogo de productos seleccionados y servicios exclusivos para eventos.</p>
+        </section>
+
+        <section>
+            <h3>Estado del Proyecto</h3>
+            <ul>
+                <li><strong>Código HTML5:</strong> Estructurado y validado.</li>
+                <li><strong>Vinculación CSS:</strong> Lista en la carpeta correspondiente.</li>
+                <li><strong>Multimedia:</strong> Carpetas de audio, imágenes y videos preparadas.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Julio 2026 - Aroma & Grano. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
