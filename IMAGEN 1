@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Crónicas del Café | Blog</title>
+</head>
+<body>
+    <header>
+        <h1>El Rincón del Barista</h1>
+        <nav>
+            <a href="index.html">Nuestra Casa</a> | 
+            <a href="blog_futbol.html">El rincón del Barista</a> | 
+            <a href="productos.html">Granos e Insumos</a> | 
+            <a href="servicios.html">Catering y Talleres</a>
+        </nav>
+        <hr>
+    </header>
+
+    <main>
+        <h2>Cómo identificar un buen café de especialidad</h2>
+        <p>Publicado el: 6 de Julio de 2026</p>
+        <p>El secreto no está solo en la máquina, sino en el viaje del grano. Hoy te enseñamos a evaluar la fragancia, el cuerpo y las notas florales o achocolatadas en tu taza diaria mediante métodos de filtrado manual.</p>
+    </main>
+</body>
+</html>
