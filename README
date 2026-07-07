@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Proyecto Web - Inicio</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenidos a Mi Proyecto Web</h1>
+        <nav>
+            <a href="index.html">Inicio</a> | 
+            <a href="blog_futbol.html">Blog de Fútbol</a> | 
+            <a href="productos.html">Productos</a> | 
+            <a href="servicios.html">Servicios</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Página Principal</h2>
+        <p>Esta es la página de inicio de nuestro proyecto web.</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 - Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>
